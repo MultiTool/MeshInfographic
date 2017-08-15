@@ -4,7 +4,7 @@ An online view of it is here:
 https://cityofclay.000webhostapp.com/CMN.svg
 https://cityofclay.000webhostapp.com/CMN.png
 
-'Vintage Armored Fist' clip art is from OpenClipArt.org: https://openclipart.org/detail/246926/vintage-armored-fist
+'Vintage Armored Fist' is from OpenClipArt.org: https://openclipart.org/detail/246926/vintage-armored-fist
 
 Telecom logos are from Wikimedia. 
 
