@@ -1,5 +1,7 @@
 MeshInfographic is an infographic for people who care about network neutrality but are not yet aware of the mesh option. 
 
+You are encouraged to copy, modify, and disseminate this infographic any way that you desire, though proper attribution would be appreciated. 
+
 An online view of it is here:
 https://cityofclay.000webhostapp.com/CMN.svg
 https://cityofclay.000webhostapp.com/CMN.png
@@ -9,7 +11,3 @@ https://cityofclay.000webhostapp.com/CMN.png
 Telecom logos are from Wikimedia. 
 
 Mesh network logos are from their respective websites.
-
-You are free to copy, modify, and disseminate this infographic any way that you desire, though proper attribution would be appreciated. 
-
-
